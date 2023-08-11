@@ -1,5 +1,5 @@
 ### Introduction
-This repository include some simple sklearn model demos.
+This repository encompasses a series of meticulous demonstrations highlighting elementary Scikit-Learn models.
 
 ### Language
 Python
